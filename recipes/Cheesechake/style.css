@@ -1,0 +1,51 @@
+*{
+    font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
+    font-size: 45px;
+    background: linear-gradient(to right,rgb(112, 13, 112),rgb(65, 65, 221),rgb(240, 93, 117));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin:5px;
+}
+.title{
+    font-family:"Courier New", "Courier", monospace;
+    font-size: 50px;
+    text-decoration: wavy underline;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color:rgb(121, 247, 247);
+}
+img{
+    height: auto;
+    width: 500px;
+    margin-left: 40%;
+    margin-right: 60%;
+}
+.child{
+    color:rgb(43, 2, 43);
+    padding: 15px;
+}
+.list{
+    text-align: center;
+    text-decoration: dotted underline;
+    color:white;
+}
+.unordered{
+    padding: 0%;
+}
+button{
+    height: 50px;
+    width:500px;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 40%;
+    margin-right: 60%;
+    background: linear-gradient(to left,white , blue);
+    border: 5px solid;
+    border-radius: 200px;
+    border-color: gold;
+}
+button:hover{
+    color:rgb(94, 240, 94);
+}

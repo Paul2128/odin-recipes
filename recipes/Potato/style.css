@@ -1,0 +1,39 @@
+*{
+    font-family: "Courier New", "Courier", monospace;
+    font-size: 40px;
+    background: linear-gradient( purple , blue , pink);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}   
+body{
+     border:10px solid blue;
+     border-radius: 50px;
+     margin:5px;
+     padding-left: 35px; 
+}
+img{
+    height: auto;
+    width: fit-content;
+    margin-left: 30%;
+}
+.title{
+    text-align: center;
+    border:  10px solid rgb(0, 0, 255) ;
+    border-radius: 50px;
+    text-shadow: 9px 6px 3px gray;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(to top,purple , blue , pink);
+}
+.list{
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+   
+}
+.unordered{
+    padding-left: 0%;
+    margin-left: 0%;
+}

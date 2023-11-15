@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(blue , rgb(1, 243, 252));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Times New Roman", "Times", serif;
+}
+.title{
+    font-size: 50px;
+    text-align: center;
+    margin-left:40%;
+    margin-right: 60%;
+    width: 500px;
+    padding: 10px;
+    text-decoration: dashed underline;
+    border: 10px solid;
+    border-radius: 100px;
+    border-color: rgb(77, 71, 71);
+    background: linear-gradient(red,yellow);
+}
+button{
+    font-size: 40px;
+    width:500px;
+    height: 100px;
+    background: linear-gradient(to top,blue , rgb(1, 243, 252));
+    text-align: center;
+    border-color: black;
+    margin-left:40%;
+    margin-right:60%;
+    margin-top: 20px;
+    padding: 20px;
+    border-width: 10px ;
+    border-color: gold;
+    border-radius: 10px;
+}
+button:hover{
+    background: linear-gradient(blue , rgb(1, 243, 252));
+    color:white;
+}
