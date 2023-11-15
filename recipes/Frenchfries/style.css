@@ -11,12 +11,13 @@
     font-size: 50px;
     border: 5px solid;
     margin-left:20%;
-    margin-right: 20%;
+    margin-right: 20%; 
     border-radius: 15px;
     border-color: greenyellow;
     padding:10px;
     text-decoration: dashed overline orange;
 }
+
 img{
     height: 300px;
     width: auto;
